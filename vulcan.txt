@@ -1,0 +1,5 @@
+class Fly
+{
+	public float speed;
+	public string name;
+}
